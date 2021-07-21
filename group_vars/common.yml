@@ -6,7 +6,7 @@ app:
     name: "azuredevops"
 
 azure:
-    location: "uksouth"
+    location: "eastus"
 
 ##################################################
 # Defaults - These should be OK to leave as is
